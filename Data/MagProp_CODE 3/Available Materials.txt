@@ -1,0 +1,5 @@
+  CODE       MATERIAL
+'Gd'         Gadolinium
+'LaFeCoSi1'  LaFe11.06Co0.86Si1.08
+'LaFeCoSi2'  LaFe11.05Co0.94Si1.01
+'LaFeCoSi3'  LaFe10.96Co0.97Si1.07
