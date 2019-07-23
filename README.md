@@ -28,14 +28,14 @@ To run the codes, execute the following m-files:\
 # System requirements (Hardware and Software)
 
 The proposed codes require only a standard computer with enough RAM to support the operations within MATLAB environment. No specific hardware is required. According to the release, a minimum value of 2 GB or 4 GB of RAM is suggested, for MATLAB R2017b and MATLAB R2018a, respectively. For better performance, values more than 4 GB and 8 GB are recommended for MATLAB R2017b and MATLAB R2018a, respectively. There are no minimum specifications for the performance of the CPU.\
-The codes have been tested on the following two systems:\
-1. OS: Windows 10 Home (version 1803)\
-   CPU: 6 cores, 2.20 GHz/core, max. 4.10 GHz/core. RAM 16 GB\
-2. OS: Windows 10 Home\
-   CPU: 2 cores, 1.70 GHz/core, max. 2.4 GHz/core. RAM 4 GB\
-About the software version, the following releases have been tested:\
-1. MATLAB R2018a (9.4);\
-2. MATLAB R2017b (9.3).\
+The codes have been tested on the following two systems:
+1. OS: Windows 10 Home (version 1803)
+   CPU: 6 cores, 2.20 GHz/core, max. 4.10 GHz/core. RAM 16 GB
+2. OS: Windows 10 Home
+   CPU: 2 cores, 1.70 GHz/core, max. 2.4 GHz/core. RAM 4 GB
+About the software version, the following releases have been tested:
+1. MATLAB R2018a (9.4);
+2. MATLAB R2017b (9.3).
 No specific toolbox are required to run the proposed codes.
 
 # Installation guide
