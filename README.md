@@ -82,7 +82,7 @@ To test the third code, it is just needed to run ‘MAIN_MagProp.m’. Before do
 All file dependencies can be found in "Readme.docx".
 
 # Reproducibility
-All the data reported in the paper “Magnetocaloric effect in Gadolinium and LaFe13_x_yCoxSiy alloys: a novel approach based on indirect measurements using artificial neural networks” by Angelo Maiorino, Manuel Gesù Del Duca, Jaka Tušek, Urban Tomc, Andrej Kitanovski and Ciro Aprea can be reproduced using the third code described above (‘MAIN_MagProp.m’). All the parameters of the four ANNs developed and used for the four MCMs investigated are provided with the main code. Hence, to reproduce the same results, it is needed to run ‘MAIN_MagProp.m’ four times, changing the material code each time according to ‘Available Materials.txt’. Furthermore, the temperature and the magnetic field step must be set to 0.1 K and 0.25 T, respectively. The upper limit of the magnetic field must be set to 1 T. 
+All the data reported in the paper “Evaluating magnetocaloric effect in magnetocaloric materials: a novel approach based on indirect measurements using artificial neural networks” by Angelo Maiorino, Manuel Gesù Del Duca, Jaka Tušek, Urban Tomc, Andrej Kitanovski and Ciro Aprea can be reproduced using the third code described above (‘MAIN_MagProp.m’). All the parameters of the four ANNs developed and used for the four MCMs investigated are provided with the main code. Hence, to reproduce the same results, it is needed to run ‘MAIN_MagProp.m’ four times, changing the material code each time according to ‘Available Materials.txt’. Furthermore, the temperature and the magnetic field step must be set to 0.1 K and 0.25 T, respectively. The upper limit of the magnetic field must be set to 1 T. 
 
 # Pseudocodes
 
