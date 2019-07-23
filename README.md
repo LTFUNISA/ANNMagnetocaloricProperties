@@ -8,7 +8,8 @@
 • Instructions for use with provided data\
 • File dependencies\
 • Reproducibility\
-• Pseudocodes
+• Pseudocodes\
+• Citation
 
 # Overview
 
@@ -86,6 +87,10 @@ All the data reported in the paper “Magnetocaloric effect in Gadolinium and La
 # Pseudocodes
 
 All pseudocodes can be found in "Readme.docx".
+
+# Citation
+
+Please cite as "Maiorino, A., et al. “Evaluating Magnetocaloric Effect in Magnetocaloric Materials: A Novel Approach Based on Indirect Measurements Using Artificial Neural Networks.” Energies, vol. 12, no. 10, {MDPI} {AG}, May 2019, p. 1871, doi:10.3390/en12101871."
 
  
 
