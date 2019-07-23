@@ -1,7 +1,7 @@
 # MagProp
 
 # Contents
-Overview
+Overview\
 Repository
 System requirements (Hardware and Software)
 Installation guide
@@ -16,8 +16,8 @@ Pseudocodes
 Here, we present a new procedure to evaluate thermodynamic properties of magnetocaloric materials based on Artificial Neural Networks (ANNs). This methodology has been developed to speed up the characterisation of new magnetocaloric materials and facilitate the design process for a magnetic refrigerator. Indeed, it requires a small amount of experimental data to characterise an MCM accurately, in comparison with other commonly-used techniques. 
 Three different codes are provided to run the procedure within the MATLAB environment. The first code is related to the training of the ANN starting from the experimental data. The second code allows to use the evaluation method within an AMR numerical simulation model. The last code provides a database of the thermodynamic properties of magnetocaloric materials, based on the learning capabilities of the Artificial Neural Networks. 
 To run the codes, execute the following m-files:
-•	‘MAIN_for_ANN_training.m’, for training an ANN;
-•	‘MAIN_Adiabatic_temperature_change.m’, for the evaluation of the adiabatic temperature change and the specific heat at a specific point;
+•‘MAIN_for_ANN_training.m’, for training an ANN;
+•‘MAIN_Adiabatic_temperature_change.m’, for the evaluation of the adiabatic temperature change and the specific heat at a specific point;
 •	‘MAIN_MagProp.m’, for evaluate magnetocaloric properties of a specific material over the desired range.
 
 # Repository
