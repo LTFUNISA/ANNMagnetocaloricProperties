@@ -1,6 +1,5 @@
-# MagProp
-
 # Contents
+
 • Overview\
 • Repository\
 • System requirements (Hardware and Software)\
